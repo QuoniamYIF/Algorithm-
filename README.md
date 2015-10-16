@@ -1,5 +1,3 @@
-# Algorithm-
-#javascript实现
->
+# Algorithm-javascript实现
 
-#QuoniamYIF/Algorithm-#1 2015/10/16 
+1.[归并排序](https://github.com/QuoniamYIF/Algorithm-#1)    2015/10/16 
